@@ -17,7 +17,9 @@ Having a local "static" copy of a website can help for research, change tracking
 3. Version "diffing" and browsing
 4. User friendly interface (web, etc)
 5. Searching and other functions
-
+6. User requirnments
+7. Latest updates for webpages to handle user inputs
+8. Good contents for attractive to user
 ## Usage
 ```
  Usage of ./stashbox:
